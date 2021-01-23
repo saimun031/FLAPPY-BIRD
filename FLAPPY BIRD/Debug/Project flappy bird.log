@@ -1,0 +1,17 @@
+﻿Build started 12/31/2017 7:36:15 PM.
+     1>Project "E:\APL\final\apl game\B S FLAPPY BIRD OPEN FILE\Project flappy bird.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(139): error C2059: syntax error : '}'
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(139): error C2143: syntax error : missing ';' before '}'
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(141): error C2143: syntax error : missing ';' before '{'
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(141): error C2447: '{' : missing function header (old-style formal list?)
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(225): error C2601: 'iKeyboard' : local function definitions are illegal
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(230): error C2601: 'iSpecialKeyboard' : local function definitions are illegal
+     1>e:\apl\final\apl game\b s flappy bird open file\source.cpp(324): error C2065: 'pillermove' : undeclared identifier
+     1>Done Building Project "E:\APL\final\apl game\B S FLAPPY BIRD OPEN FILE\Project flappy bird.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.68
